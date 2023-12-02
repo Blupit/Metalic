@@ -1,0 +1,27 @@
+body{
+    width: 25px;
+    background-image: url(IMG_3252.png);
+}
+h1{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-indent: 600px;
+    color: cornflowerblue;
+}
+button{
+    display: block;
+    color: rgb(251, 251, 252);
+    background-color:powderblue;
+    width: 250px;
+    height: 50px;
+    border-radius: 25px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 25px;
+    transition-duration: 0.4s;
+}
+button:hover {
+    background-color: #17034d77; /* Green */
+    color: white;
+  }
+  
+ 
+  

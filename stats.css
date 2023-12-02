@@ -1,0 +1,32 @@
+body{
+    background-size: cover;
+    background-attachment: fixed;
+    background-image: url(Metalic.png);
+}
+h4{
+    color: cornflowerblue;
+    text-indent: 615px;
+font-size: 25px;
+}
+h5{
+    color: cornflowerblue;
+    text-indent: 615px;
+font-size: 25px;
+}
+button{
+    display: block;
+    color: rgb(28, 25, 77);
+    background-color: rgb(255, 249, 249);
+    width: 275px;
+    height: 100px;
+    border-radius: 25px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 25px;
+    transition-duration: 0.4s;
+}
+button:hover {
+    background-color: #17034d77; /* Green */
+    color: white;
+  }
+  
+ 
